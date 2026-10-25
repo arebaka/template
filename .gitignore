@@ -1,7 +1,6 @@
 # Dotenv
-.env
-.env.local
-.env.*.local
+.env*
+!.env.example
 
 # Logs
 logs/*
@@ -18,11 +17,6 @@ logs/*
 
 # Cache
 .cache
-*.tsbuildinfo
-.npm
-.eslintcache
-.stylelintcache
-.node_repl_history
 
 # MacOS
 .DS_Store
@@ -53,3 +47,6 @@ logs/*
 Session.vim
 Sessionx.vim
 [._]*.un~
+
+# Agents
+.claude
