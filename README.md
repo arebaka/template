@@ -38,7 +38,7 @@
 
 ## Support
 
-If something doesnt work, or you just wanna talk to the bot creator or his mom, write [@arelive](https://t.me/arelive).
+If something doesnt work, or you just wanna talk to the creator or his mom, write [@arelive](https://t.me/arelive).
 There also accepted kicks from volunteer project managers.
 
 [https://github.com/arebaka/{name}/issues](https://github.com/arebaka/{name}/issues)
