@@ -1,0 +1,10 @@
+name: Bug report
+description: Something does not work as expected.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Report vulnerabilities privately through
+        [GitHub](https://github.com/arebaka/{name}/security/advisories/new),
+        not in issues.
